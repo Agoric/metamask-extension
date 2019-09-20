@@ -11829,7 +11829,7 @@ fuse.js@^3.4.4:
   resolved "https://registry.yarnpkg.com/fuse.js/-/fuse.js-3.4.5.tgz#8954fb43f9729bd5dbcb8c08f251db552595a7a6"
   integrity sha512-s9PGTaQIkT69HaeoTVjwGsLfb8V8ScJLx5XGFcKHg0MqLUH/UZ4EKOtqtXX9k7AFqCGxD1aJmYb8Q5VYDibVRQ==
 
-gaba@1.7.0:
+gaba@^1.7.0:
   version "1.7.0"
   resolved "https://registry.yarnpkg.com/gaba/-/gaba-1.7.0.tgz#10e3dc25401a46f7e7ee3261159ca908667ce08a"
   integrity sha512-LFXrP3fexIvg+YQuRIg7DT+2duMohWETGvVuPNaaAzqCxDl7EsVe7uJSSc3yb1X/qk9pJVh4Zuu1C7safjkDIg==
@@ -17911,7 +17911,7 @@ miller-rabin@^4.0.0:
     bn.js "^4.0.0"
     brorand "^1.0.1"
 
-mime-db@1.x.x:
+mime-db@1.40.0, mime-db@1.x.x:
   version "1.40.0"
   resolved "https://registry.yarnpkg.com/mime-db/-/mime-db-1.40.0.tgz#a65057e998db090f732a68f6c276d387d4126c32"
   integrity sha512-jYdeOMPy9vnxEqFRRo6ZvTZ8d9oPb+k18PKoYNYUe2stVEBPPwsln/qWzdbmaIvnhZ9v2P+CuecK+fpUfsV2mA==
@@ -17920,11 +17920,6 @@ mime-db@^1.28.0:
   version "1.41.0"
   resolved "https://registry.yarnpkg.com/mime-db/-/mime-db-1.41.0.tgz#9110408e1f6aa1b34aef51f2c9df3caddf46b6a0"
   integrity sha512-B5gxBI+2K431XW8C2rcc/lhppbuji67nf9v39eH8pkWoZDxnAL0PxdpH32KYRScniF8qDHBDlI+ipgg5WrCUYw==
-
-mime-db@~1.30.0:
-  version "1.30.0"
-  resolved "https://registry.yarnpkg.com/mime-db/-/mime-db-1.30.0.tgz#74c643da2dd9d6a45399963465b26d5ca7d71f01"
-  integrity sha1-dMZD2i3Z1qRTmZY0ZbJtXKfXHwE=
 
 mime-db@~1.38.0:
   version "1.38.0"
@@ -17992,7 +17987,7 @@ mini-css-extract-plugin@^0.7.0:
     schema-utils "^1.0.0"
     webpack-sources "^1.1.0"
 
-minimalistic-assert@^1.0.0, minimalistic-assert@^1.0.1:
+minimalistic-assert@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/minimalistic-assert/-/minimalistic-assert-1.0.1.tgz#2e194de044626d4a10e7f7fbc00ce73e83e4d5c7"
   integrity sha512-UtJcAD4yEaGtjPezWuO9wC4nwUnVH/8/Im3yEHQP4b67cXlD/Qr9hdITCU1xDbSEXg2XKNaP8jsReV7vQd00/A==
